@@ -1,0 +1,146 @@
+body{
+    background-color: hsl(204, 43%, 93%)
+}
+p{
+/*     font-family: 'Fraunces', serif;
+    font-family: 'Karla', sans-serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Outfit', sans-serif; */
+
+}
+.main{
+    width: 650px;
+    height: 450px;
+    margin-top: 10%;
+    margin-left: 30%;
+
+}
+.block1{
+    height: 30%;
+    background-color: white;
+    padding: 40px 40px 40px 40px;
+    border-radius: 10px 10px 0px 0px;
+}
+.top1{
+    margin: 0px 0px 20px 0px;}
+.top2{
+    margin: 10px 0px 10px 0px;
+}
+.top3{
+    margin: 10px 0px 10px 0px;
+}
+.text1{
+    margin: 0px 0px 0px 0px;
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    font-size: 22px;
+    color: hsl(179, 62%, 43%);
+}
+.text2{
+    margin: 0px 0px 0px 0px;
+    font-size: 18px;
+    font-weight: 600;
+    font-family: 'Karla', sans-serif;
+    color: hsl(71, 73%, 54%);
+}.text3{
+    margin: 0px 0px 0px 0px;
+    font-family: 'Karla', sans-serif;
+    color: hsl(218, 22%, 67%);
+    line-height: 25px;
+
+}
+
+
+.block2{
+    height: 233px;
+}
+.block21{
+    height: 100%;
+    margin-right: -2px;
+    background-color: hsl(179, 62%, 43%);
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 0px 0px 0px 10px;
+}
+
+.line1{
+    margin-left: 40px;
+    margin-top: 40px;
+}
+.line2{
+    margin-left: 40px;
+
+}
+.line3{
+    margin-left: 40px;
+
+}
+.linetext1{
+    color: white;
+    font-family: 'Karla', sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+
+}
+.linetext2{
+    color: white;
+    font-family: 'Karla', sans-serif;
+
+}
+.linetext3{
+    color: rgb(186, 238, 255);
+    font-family: 'Karla', sans-serif;
+    font-size: 14px
+
+}
+.buttonline{
+    padding-left: 40px;
+    margin-top: 20px;
+}
+.button{
+    font-family: 'Karla', sans-serif;
+    font-weight: 700;
+    background-color: hsl(71, 73%, 54%);
+    color: white;
+    border: none;
+    border-radius: 4px;
+    width: 210px;
+    height: 40px;
+    box-shadow: 2px 2px 5px rgb(108, 108, 108);
+}
+
+
+
+.block22{
+    height: 100%;
+    margin-left: -2px;
+    background-color: hsl(179, 65%, 50%);
+    width: 50%;
+    display: inline-block;
+    vertical-align: top;
+    border-radius: 0px 0px 10px 0px;
+}
+
+.line21{
+    margin-left: 30px;
+    margin-top: 40px;
+}
+.line22{
+    margin-left: 30px;
+}
+.line21text{
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+    font-weight: 500;
+    color:white;
+    margin: 0 0 0 0;
+
+}
+.line22text{
+    font-family: 'Karla', sans-serif;
+    font-size: 14px;
+    color: rgb(186, 238, 255);
+    padding-right: 110px;
+
+}

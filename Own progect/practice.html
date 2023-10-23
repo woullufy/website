@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+
+<html>
+    <head>
+        <title>Grid Practice</title>
+    </head>
+    <body style="padding-bottom: 1000px">
+        <div style="
+            display: grid;
+            grid-template-columns: 100px 100px;
+            ">
+            <div style="background-color: rgb(56, 149, 180);">
+                div1
+            </div>
+            <div style="background-color: tomato;">
+                div2
+                <p>test</p>
+            </div>
+        </div>
+        <div style="
+            display: grid;
+            grid-template-columns: 100px 100px 200px; 
+            margin-top: 30px;
+            ">
+            <div style="background-color: rgb(56, 149, 180);">
+                100px
+            </div>
+            <div style="background-color: tomato;">
+                100px
+                <p>test</p>
+            </div>
+            <div style="background-color: rgb(56, 149, 180);">
+                200px
+            </div>
+            <div style="background-color: tomato;">
+                100px
+            </div>
+        </div>
+        <div style="
+            display: grid;
+            grid-template-columns: 100px 1fr; 
+            margin-top: 30px;
+            ">
+            <div style="background-color: rgb(56, 149, 180);">
+                100px
+            </div>
+            <div style="background-color: tomato;">
+                100px
+            </div>
+        </div>
+        <div style="
+            display: grid;
+            grid-template-columns: 1fr 1fr 1fr; 
+            margin-top: 30px;
+            column-gap: 20px;
+            row-gap: 40px
+            ">
+            <div style="background-color: rgb(56, 149, 180); height: 200px;">
+                1fr
+            </div>
+            <div style="background-color: tomato;">
+                1fr
+            </div>
+            <div style="background-color: rgb(56, 149, 180);">
+                1fr
+            </div>
+            <div style="background-color: tomato; height: 200px;">
+                1fr
+            </div>
+            <div style="background-color: rgb(56, 149, 180);">
+                1fr
+            </div>
+            <div style="background-color: tomato;">
+                1fr
+            </div>
+        </div>
+    </body>
+
+</html>

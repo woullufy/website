@@ -1,0 +1,14 @@
+.box{
+    height: 100px;
+    width: 100px;
+    border: 2px solid;
+    border-color: gold;
+    background-color: tomato;
+    text-align: center;
+
+    float: right
+}
+
+p{
+    clear: right
+}

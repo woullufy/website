@@ -1,0 +1,17 @@
+.gg-color-bucket{
+    color: purple;
+    position: relative;
+    left: 50px;
+}
+
+.gg-youtube{
+    color: purple;
+    position: relative;
+    left: 100px;
+}
+
+.gg-twitter{
+    color: aqua;
+    position: relative;
+    bottom: 20px;
+}

@@ -1,0 +1,122 @@
+p{
+    font-family: 'Hanken Grotesk', sans-serif;
+}
+.perent{
+    border-radius: 25px;
+    box-shadow: 5px 5px 15px rgb(162, 162, 162);
+    width: 635px;
+    height: 400px;
+}
+.leftchild{
+    border-radius: 25px;
+    width: 315px;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    background-image: linear-gradient(to bottom, hsl(252, 100%, 67%), hsl(241, 81%, 54%));
+    
+}
+.rightchild{
+    width: 260px;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    padding-left: 20px;
+}
+
+
+.circle{
+    margin-left:  0px;
+    display: block;
+    width: 170px;
+    height: 170px;
+    background-image: linear-gradient(to bottom, hsla(256, 72%, 46%, 1), hsla(241, 72%, 46%, 0));
+    border-radius: 85px;
+    margin: auto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-weight: 700;
+}
+.number1{
+    text-align: center;
+    font-size: 50px;
+    margin-top: 20px;
+    margin-bottom: 0px;
+    font-weight: 800;
+}
+.number2{
+    margin-top: 0px;
+    text-align: center;
+    color: hsl(241, 52%, 75%);
+}
+.line3{
+    margin: 0px 50px 0px 50px;
+}
+.linetext1{
+    color:  hsl(241, 100%, 89%);
+    font-size: 20px;
+    text-align: center;
+}   
+.linetext2{
+    color:  white;
+    font-weight: 500;
+    font-size: 26px;
+    text-align: center;
+    margin-bottom: 10px;
+}
+.linetext3{
+    margin-top: 0px;
+    color:  hsl(241, 100%, 89%);
+    font-size: 15px;
+    text-align: center;
+}
+
+.box0{
+    font-size: 20px;
+    font-weight: 600;
+    color: hsl(224, 30%, 27%)
+}
+.box1{
+    height: 45px;
+    width: 240px;
+    background-color: hsla(0, 100%, 67%, 0.1);
+    color: rgb(208, 101, 101);
+    border-radius: 8px;
+}
+.box2{
+    height: 45px;
+    width: 240px;
+    background-color: hsla(39, 100%, 56%, 0.1);
+    color: rgb(230, 206, 89);
+    border-radius: 8px;
+}
+.box3{
+    height: 45px;
+    width: 240px;
+    background-color: hsla(166, 100%, 37%, 0.1);
+    color: rgb(88, 208, 128);
+    border-radius: 8px;
+}
+.box4{
+    height: 45px;
+    width: 240px;
+    background-color: hsla(234, 85%, 45%, 0.1);
+    color: rgb(116, 80, 223);
+    border-radius: 8px;
+}
+.buttontext{
+    background-color: hsl(224, 30%, 27%);
+    color: hsl(240, 35%, 93%);
+    cursor: pointer;
+    height: 45px;
+    width: 240px;
+    border-radius: 25px;
+    border: none;
+    font-size: 15px;
+    font-weight: 600;
+    margin-top: 30px;
+}
+
+

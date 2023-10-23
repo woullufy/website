@@ -1,0 +1,35 @@
+#box2{
+    border: 2px sollid;
+    width: 250px;
+    height: 250px;
+    font-size: 225px;
+    text-align: center;
+    background-color: lightcoral;
+
+    transform: translateX(50px);
+    transform: translateY(50px);
+    transform: translate(75px, 75px);
+    transform: rotateX(60deg);
+    transform: rotateY(30deg);
+    transform: rotateZ(45deg);
+
+    transform: scaleX(3); 
+    transform: scaleY(3); 
+    transform: scale(3,2); 
+
+    transform: skewX(45deg);
+    transform: skewY(30deg);
+    transform: skew(30deg, 10deg);
+
+    transform: matrix(1, 0, 0, 1, 0, 0,);
+
+    /*
+        scaleX(),
+        skewY(),
+        skewX(),
+        scaleY(),
+        translateX(),
+        translateY()
+    */
+
+}

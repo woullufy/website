@@ -1,0 +1,90 @@
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+ /* p{
+    font-family: 'Fraunces', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Outfit', sans-serif;
+}  */
+.parent{
+    text-align: center;
+    border: solid;
+    height: 600px;
+}
+.child1{
+    vertical-align: top;
+    display: inline-block;
+    border: solid;
+    height: 550px;
+    width: 350px;
+    background-color: white;
+}
+.child2{
+    padding: 5px 5px 5px 5px;
+    vertical-align: top;
+    display: inline-block;
+    border: 5px solid;
+    height: 550px;
+    width: 350px;
+    background-color: white; 
+}
+.container_img{
+    width: 100%;
+    object-fit: cover;
+    object-position: center;    
+}
+
+
+
+
+
+.perfume{
+    border: 1px solid tomato;
+
+}
+.perfume_text{
+    text-align: left;
+}
+.gabrielle{
+    padding: 0 0 0 0;
+    border: 1px solid tomato;
+}
+.main{
+    padding: 0 0 0 0;
+    border:1px solid tomato;
+}
+.main_text{
+    font-family: 'Fraunces', serif;
+    font-family: 'Montserrat', sans-serif;
+    font-family: 'Outfit', sans-serif;
+    font-weight: normal;
+}
+.prices{
+    padding: 0 0 0 0;
+    border:1px solid tomato;
+    display: block;
+    text-align: left;
+}
+
+
+.price1{
+    display: inline-block;
+    vertical-align: center;
+}
+.price2{
+    display: inline-block;
+    vertical-align: center;
+}
+
+
+.button{
+    border: 1px solid tomato;
+}
+.button_text{
+    border: none;
+    border-radius: 6px;
+    background-color: hsl(118, 44%, 17%);
+    color: white;
+    height: 35px;
+    width: 200px;
+}

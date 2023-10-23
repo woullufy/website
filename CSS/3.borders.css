@@ -1,0 +1,25 @@
+body{
+    background-color: aquamarine;
+}
+
+
+h1{
+    color: darkblue;
+    border-top-style: dotted;
+    border-bottom-style: dashed;
+    border-left-style: double;
+    border-left-width: 10px;
+    border-right-style: groove;
+    border-right-width: 10px;
+    border-left-color: brown;
+}
+
+p{
+    border-style: outset;
+    border-color: gold;
+    border-width: 20px;
+    border-radius: 150px;
+    padding: 15px;
+    
+}
+

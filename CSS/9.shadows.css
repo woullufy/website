@@ -1,0 +1,8 @@
+h1{
+    text-shadow: 2px 5px 5px yellow, 0px -5px 5px tomato ;
+    
+}
+
+h1:hover{
+    box-shadow: 5px 5px 10px black;
+}

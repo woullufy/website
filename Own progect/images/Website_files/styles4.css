@@ -1,0 +1,20 @@
+.perent{
+    border: 1px solid tomato;
+    width: 700px;
+    height: 400px;
+}
+.leftchild{
+    border: 1px solid purple;
+    width: 345px;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+    background-color: linear-gradient(to bottom, purple, rgb(70, 39, 190));
+}
+.rightchild{
+    border: 1px solid green;
+    width: 345px;
+    height: 100%;
+    display: inline-block;
+    vertical-align: top;
+}

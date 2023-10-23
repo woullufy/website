@@ -1,0 +1,35 @@
+.main {
+    margin-left: 7%;
+    height: 400px;
+    width: 700px;
+    border: solid;
+}
+.sign-up-form {
+    border: solid;
+    width: 50%;
+    height: 100%;
+}
+.title {
+    padding-top: 0px;
+    border: solid;
+    font-family: Arial;
+    font-weight: bold;
+    font-size: 40px;
+}
+p {
+    margin-top: 0px;
+}
+.text {
+    height: 310px;
+}
+.text-inside {
+    font-size: 15px;
+    width: 300px;
+    display: block;
+    margin-top: 20px;
+    border: solid;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+
+}
